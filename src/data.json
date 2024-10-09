@@ -1,0 +1,166 @@
+{
+    "name": "Vijay Motwani",
+    "designation": "Software Engineer",
+    "comment": "I build Web and Desktop apps",
+    "phone": "+91 9029135334",
+    "email": "vijay.motwani@outlook.in",
+    "location": "Mumbai, India",
+    "social": [
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/whomotwani/"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/whomotwani"
+        }
+    ],
+    "skills": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Vue JS",
+        "Vuex",
+        "Pinia",
+        "Vue Router",
+        "Quasar Framework",
+        "REST APIs",
+        "Debugging",
+        "Browser Devtools",
+        "Jira",
+        "Gerrit",
+        "GitHub",
+        "Git",
+        "LESS Compiler",
+        "SASS Compiler",
+        "Block Element Modifier(BEM)",
+        "Electron JS",
+        "Bootstrap",
+        "Bulma",
+        "Tailwind CSS",
+        "Daisy UI",
+        "Postman",
+        "Firebase",
+        "VS Code",
+        "PUG Template",
+        "Java 8"
+    ],
+    "experiences": [
+        {
+            "name": "Interactive Brokers",
+            "startDate": "Dec 19, 2022",
+            "endDate": "Oct 03, 2024",
+            "designation": "Software Engineer",
+            "description": "I work at Interactive Brokers on a client-facing real-time trading web application. My responsibilities include solving bugs and developing new features using Vue 2, Vue 3, Pug templates, and JavaScript. I ensure seamless performance and functionality improvements to enhance the user experience for our trading platform.",
+            "location": "Mumbai, India",
+            "skills": [
+                "Vue JS",
+                "BEM",
+                "HTML & CSS",
+                "LESS",
+                "Node JS"
+            ]
+        },
+        {
+            "name": "Capgemini",
+            "startDate": "Jan 20, 2020",
+            "endDate": "Nov 21, 2022",
+            "designation": "Consultant",
+            "description": "As a Consultant Engineer, I developed pipelines in Azure Data Factory to ensure data integrity between on-premises databases and cloud storage. Additionally, I developed REST APIs in Python Flask and designed user interfaces using HTML, CSS, JavaScript, Bootstrap, Chart JS and Vue JS for a Machine Learning dashboard.",
+            "location": "Mumbai, India",
+            "skills": [
+                "Azure",
+                "ADF",
+                "ADB",
+                "Vue JS",
+                "Chart JS",
+                "Python",
+                "Flask",
+                "REST APIs",
+                "Bootstrap 4"
+            ]
+        },
+        {
+            "name": "Infraroot",
+            "startDate": "Oct 01, 2019",
+            "endDate": "Jan 18, 2020",
+            "designation": "Software Engineer",
+            "description": "As a Software Engineer, I designed and developed web-based dashboards for government employees, utilizing Core Java, JAX-RS, MySQL, Apache POI, Servlets, JSP, and JavaScript.",
+            "location": "Mumbai, India",
+            "skills": [
+                "Core Java",
+                "JAX-RS",
+                "MySQL",
+                "Apache POI",
+                "Servlets",
+                "JSP",
+                "JavaScript"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Amzo",
+            "startDate": "Jan 20, 2023",
+            "endDate": "Current",
+            "link": "https://amzo.vercel.app/auth",
+            "description": "Amzo is a simple inventory management web app built in Vue 2, migrated to Vue 3.",
+            "skills": [
+                "Vue 3",
+                "Pinia",
+                "Vue Router",
+                "Firebase",
+                "Internationalization (I18N)"
+            ]
+        },
+        {
+            "name": "Noteballs",
+            "startDate": "Sep 2024",
+            "endDate": "Sep 2024",
+            "link": "https://noteballs-15092024.web.app/#/auth",
+            "description": "Noteballs is a sleek notes-taking web app built with Vue 3, Firebase, and Bulma. It offers users a seamless experience for creating, storing, and organizing notes, with real-time syncing across devices. Its clean, responsive interface ensures ease of use and accessibility, making it a perfect tool for managing your thoughts and tasks efficiently.",
+            "skills": [
+                "Vue 3",
+                "Pinia",
+                "Vue Router",
+                "Firebase"
+            ]
+        },
+        {
+            "name": "Moneyballs",
+            "startDate": "Aug 2024",
+            "endDate": "Sep 2024",
+            "link": "https://moneyball-one.vercel.app/#/",
+            "description": "Moneyballs is a simple yet feature-rich expense tracker app built with Vue 3 and the Quasar framework. It allows users to efficiently manage their expenses, storing data securely in local storage. The app supports intuitive swipe actions, making it easy to delete entries or mark them as paid. Users can customize their experience by changing the display currency, tweaking the app's appearance, and adjusting other preferences through a dedicated settings page. Moneyballs offers a streamlined solution for tracking finances with ease and flexibility.",
+            "skills": [
+                "Vue 3",
+                "Vue Router",
+                "Quasar Framework"
+            ]
+        },
+        {
+            "name": "Flexa",
+            "startDate": "Aug 18, 2021",
+            "endDate": "Oct 30, 2021",
+            "link": "https://flexa.forcle.in",
+            "description": "The Bulk File Renamer is a powerful desktop application designed to help users efficiently rename multiple files at once. Built with Electron.js for cross-platform compatibility, it features a user-friendly interface styled with Bootstrap, HTML, and CSS. The app provides a variety of renaming options, including adding prefixes, suffixes, etc. Its intuitive design allows users to preview changes before applying them, ensuring accuracy. Ideal for anyone looking to organize their files quickly and effectively.",
+            "skills": [
+                "HTML + CSS",
+                "Javascript",
+                "Bootstrap 4",
+                "Electron JS"
+            ]
+        },
+        {
+            "name": "Newtility",
+            "startDate": "March 01, 2021",
+            "endDate": "March 28, 2021",
+            "link": "https://chromewebstore.google.com/detail/newtility/jailcbdeidkolbejmeodhlkfdpofacaj",
+            "description": "Newtility is a Chrome Extension that provides a set of utility tools designed to enhance your web browsing experience. It enables you to easily copy an entire column from an unspanned HTML table. Additionally, it allows you to copy any text from a webpage while transforming its case to formats like uppercase, lowercase, kebab case, and more, streamlining your workflow with these convenient features.",
+            "skills": [
+                "Javascript",
+                "Chrome Extension Development"
+            ]
+        }
+    ]
+}
