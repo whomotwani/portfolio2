@@ -4,7 +4,7 @@
     "comment": "I build Web and Desktop apps",
     "phone": "+91 9029135334",
     "email": "vijay.motwani@outlook.in",
-    "location": "Mumbai, India",
+    "location": "Mumbai",
     "social": [
         {
             "name": "LinkedIn",
@@ -52,7 +52,7 @@
             "endDate": "Oct 03, 2024",
             "designation": "Software Engineer",
             "description": "I work at Interactive Brokers on a client-facing real-time trading web application. My responsibilities include solving bugs and developing new features using Vue 2, Vue 3, Pug templates, and JavaScript. I ensure seamless performance and functionality improvements to enhance the user experience for our trading platform.",
-            "location": "Mumbai, India",
+            "location": "Mumbai",
             "skills": [
                 "Vue JS",
                 "BEM",
@@ -67,7 +67,7 @@
             "endDate": "Nov 21, 2022",
             "designation": "Consultant",
             "description": "As a Consultant Engineer, I developed pipelines in Azure Data Factory to ensure data integrity between on-premises databases and cloud storage. Additionally, I developed REST APIs in Python Flask and designed user interfaces using HTML, CSS, JavaScript, Bootstrap, Chart JS and Vue JS for a Machine Learning dashboard.",
-            "location": "Mumbai, India",
+            "location": "Mumbai",
             "skills": [
                 "Azure",
                 "ADF",
@@ -86,7 +86,7 @@
             "endDate": "Jan 18, 2020",
             "designation": "Software Engineer",
             "description": "As a Software Engineer, I designed and developed web-based dashboards for government employees, utilizing Core Java, JAX-RS, MySQL, Apache POI, Servlets, JSP, and JavaScript.",
-            "location": "Mumbai, India",
+            "location": "Mumbai",
             "skills": [
                 "Core Java",
                 "JAX-RS",
@@ -95,6 +95,22 @@
                 "Servlets",
                 "JSP",
                 "JavaScript"
+            ]
+        },
+        {
+            "name": "HERE Technologies",
+            "startDate": "Nov 02, 2017",
+            "endDate": "Sep 20, 2019",
+            "designation": "Spatial Data Specialist",
+            "description": "I worked at HERE, where I was responsible for updating and enhancing digital maps and navigation systems. I utilized satellite imagery, probe data, and the Atlas tool as key sources. Additionally, I developed several internal tools aimed at improving efficiency and saving time for the team.",
+            "location": "Mumbai",
+            "skills": [
+                "Core Java",
+                "JAX-RS",
+                "MySQL",
+                "JavaScript",
+                "Atlas",
+                "Map creator"
             ]
         }
     ],
