@@ -116,20 +116,6 @@
     ],
     "projects": [
         {
-            "name": "Amzo",
-            "startDate": "Jan 20, 2023",
-            "endDate": "Current",
-            "link": "https://amzo.vercel.app/auth",
-            "description": "Amzo is a simple inventory management web app built in Vue 2, migrated to Vue 3.",
-            "skills": [
-                "Vue 3",
-                "Pinia",
-                "Vue Router",
-                "Firebase",
-                "Internationalization (I18N)"
-            ]
-        },
-        {
             "name": "Noteballs",
             "startDate": "Sep 2024",
             "endDate": "Sep 2024",
