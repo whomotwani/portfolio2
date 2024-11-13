@@ -63,8 +63,8 @@
         },
         {
             "name": "Capgemini",
-            "startDate": "Jan 20, 2020",
-            "endDate": "Nov 21, 2022",
+            "startDate": "Jan 29, 2020",
+            "endDate": "Nov 25, 2022",
             "designation": "Consultant",
             "description": "As a Consultant Engineer, I developed pipelines in Azure Data Factory to ensure data integrity between on-premises databases and cloud storage. Additionally, I developed REST APIs in Python Flask and designed user interfaces using HTML, CSS, JavaScript, Bootstrap, Chart JS and Vue JS for a Machine Learning dashboard.",
             "location": "Mumbai",
@@ -83,7 +83,7 @@
         {
             "name": "Infraroot",
             "startDate": "Oct 01, 2019",
-            "endDate": "Jan 18, 2020",
+            "endDate": "Jan 22, 2020",
             "designation": "Software Engineer",
             "description": "As a Software Engineer, I designed and developed web-based dashboards for government employees, utilizing Core Java, JAX-RS, MySQL, Apache POI, Servlets, JSP, and JavaScript.",
             "location": "Mumbai",
@@ -116,6 +116,19 @@
     ],
     "projects": [
         {
+            "name": "Flexa",
+            "startDate": "Aug 18, 2021",
+            "endDate": "CURRENT",
+            "link": "https://flexa.forcle.in",
+            "description": "The Bulk File Renamer is a powerful desktop application designed to help users efficiently rename multiple files at once. Built with Electron.js for cross-platform compatibility, it features a user-friendly interface styled with Bootstrap, HTML, and CSS. The app provides a variety of renaming options, including adding prefixes, suffixes, etc. Its intuitive design allows users to preview changes before applying them, ensuring accuracy. Ideal for anyone looking to organize their files quickly and effectively.",
+            "skills": [
+                "HTML + CSS",
+                "Javascript",
+                "Bootstrap 4",
+                "Electron JS"
+            ]
+        },
+        {
             "name": "Noteballs",
             "startDate": "Sep 2024",
             "endDate": "Sep 2024",
@@ -138,19 +151,6 @@
                 "Vue 3",
                 "Vue Router",
                 "Quasar Framework"
-            ]
-        },
-        {
-            "name": "Flexa",
-            "startDate": "Aug 18, 2021",
-            "endDate": "Oct 30, 2021",
-            "link": "https://flexa.forcle.in",
-            "description": "The Bulk File Renamer is a powerful desktop application designed to help users efficiently rename multiple files at once. Built with Electron.js for cross-platform compatibility, it features a user-friendly interface styled with Bootstrap, HTML, and CSS. The app provides a variety of renaming options, including adding prefixes, suffixes, etc. Its intuitive design allows users to preview changes before applying them, ensuring accuracy. Ideal for anyone looking to organize their files quickly and effectively.",
-            "skills": [
-                "HTML + CSS",
-                "Javascript",
-                "Bootstrap 4",
-                "Electron JS"
             ]
         },
         {
